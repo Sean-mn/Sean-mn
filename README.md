@@ -1,5 +1,5 @@
 # Game Client Delevoper
-### PARK HYEONMIN
+### 박현민(PARK HYEONMIN)
 
 <!--
 **Sean-mn/Sean-mn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
