@@ -1,4 +1,4 @@
-# Game Client Delevoper
+# Game Server Delevoper
 ### 박현민(PARK HYEONMIN)
 
 <!--
