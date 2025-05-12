@@ -1,17 +1,15 @@
-# Game Server Delevoper
-### 박현민(PARK HYEONMIN)
+```csharp
+public class Introduce
+{
+    public class ME
+    {
+        public string name = "박현민";
+        public string major = "게임 서버";
+    }
 
-<!--
-**Sean-mn/Sean-mn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    public void Main()
+    {
+        Console.WriteLine("게임서버개발자 박현민입니다.");
+    }
+}
+```
