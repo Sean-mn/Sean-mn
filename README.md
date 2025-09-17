@@ -9,7 +9,7 @@ public class Introduce
 
     public void Main()
     {
-        Console.WriteLine("게임서버개발자 박현민입니다.");
+        Console.WriteLine("안녕하세요. 게임서버개발자 박현민입니다.");
     }
 }
 ```
