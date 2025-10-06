@@ -7,9 +7,10 @@ public class Introduce
         public string major = "게임 서버";
     }
 
-    public void Main()
+    public static void Main()
     {
-        Console.WriteLine("안녕하세요. 게임서버개발자 박현민입니다.");
+        var me = new ME();
+        Console.WriteLine($"안녕하세요. {me.Major} 개발자 {me.Name}입니다!");
     }
 }
 ```
