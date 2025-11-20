@@ -3,8 +3,8 @@ public class Introduce
 {
     public class ME
     {
-        public string name = "박현민";
-        public string major = "게임 서버";
+        public string Name { get; private set; } = "박현민";
+        public string Major { get; private set; } = "게임 서버";
     }
 
     public static void Main()
